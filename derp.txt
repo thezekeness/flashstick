@@ -1,3 +1,23 @@
 This is a test file to pracice doing stuff on git.
 
-Derp.
+Derp. 
+
+$BNSRF
+
+Bruker nano surfac assemb
+asset
+sales
+$
+dual mfg sup
+wip
+paso
+
+reg is
+
+bruker nono surf assembler team
+asset
+sales
+bnsrf
+supply
+wip
+blank
